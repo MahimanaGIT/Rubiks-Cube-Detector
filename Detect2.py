@@ -7,15 +7,6 @@ import scipy.spatial as sp
 
 global frame
 
-'''
-TODO:
-1. Remove noise using average area and perimeter of the square after detecting each of the one.
-2. Find the missing squares and the grid. Detect the rubiks cube if there is a grid of 3x3 or 4x4 
-being constructed from the detected squares
-3. distance between adjacent squares is the average edge length
-4. de duplicacy of contours
-'''
-
 # Variables
 colors = {
     "red": (255, 0, 0),
