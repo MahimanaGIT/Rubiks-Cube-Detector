@@ -1,5 +1,7 @@
 # Rubiks-Cube-Detection Using Classical Computer Vision Techniques
 
+Implementation: https://youtu.be/tbmGO0xq0gY
+
 This is the tutorial to detect a Rubiks Cube using computer vision. OpenCV is used as a framework. 
 
 3*3*3 and 4*4*4 Rubik's Cube were used for implementation. We used classical computer vision techniques such as thresholding, contour detection, shape approximation, hough transform, optical flow for the detection of the cube.
